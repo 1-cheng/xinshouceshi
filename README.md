@@ -1,2 +1,2 @@
 # xinshouceshi
-这是一个新手测试用的
+新手刚学数据结构与算法python版
